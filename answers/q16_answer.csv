@@ -1,0 +1,11 @@
+additives,count
+[ semolina -> en:semolina  ]  [ wheat -> en:wheat  ]  [ durum-flour -> en:durum-flour  ]  [ flour -> en:flour  ]  [ wheat -> en:wheat  ]  [ niacin -> en:e375  -> exists  -- ok  ]  [ ferrous-sulfate -> en:ferrous-sulfate  ]  [ sulfate -> en:sulfate  ]  [ iron -> en:iron  ]  [ thiamin-mononitrate -> en:thiamin-mononitrate  ]  [ mononitrate -> en:mononitrate  ]  [ riboflavin -> en:e101i  -> exists  -- ok  ]  [ folic-acid -> en:folic-acid  ]  [ acid -> en:acid  ],135
+[ extra-virgin-olive-oil -> en:extra-virgin-olive-oil  ]  [ virgin-olive-oil -> en:virgin-olive-oil  ]  [ olive-oil -> en:olive-oil  ]  [ oil -> en:oil  ],118
+[ carbonated-water -> en:carbonated-water  ]  [ water -> en:water  ]  [ natural-flavor -> en:natural-flavor  ]  [ flavor -> en:flavor  ],111
+[ green-beans -> en:green-beans  ]  [ beans -> en:beans  ]  [ water -> en:water  ]  [ salt -> en:salt  ],82
+[ semolina -> en:semolina  ]  [ niacin -> en:e375  -> exists  -- ok  ]  [ ferrous-sulfate -> en:ferrous-sulfate  ]  [ sulfate -> en:sulfate  ]  [ iron -> en:iron  ]  [ thiamin-mononitrate -> en:thiamin-mononitrate  ]  [ mononitrate -> en:mononitrate  ]  [ riboflavin -> en:e101i  -> exists  -- ok  ]  [ folic-acid -> en:folic-acid  ]  [ acid -> en:acid  ],72
+[ almonds -> en:almonds  ],72
+[ pasteurized-milk -> en:pasteurized-milk  ]  [ milk -> en:milk  ]  [ cheese-culture -> en:cheese-culture  ]  [ culture -> en:culture  ]  [ salt -> en:salt  ]  [ enzymes-and-annatto -> en:enzymes-and-annatto  ]  [ and-annatto -> en:and-annatto  ]  [ annatto -> en:e160b  -> exists  -- ok  ]  [ vegetable-color -> en:vegetable-color  ]  [ color -> en:colour  ],65
+[ soybean-oil -> en:soybean-oil  ]  [ oil -> en:oil  ],64
+[ broccoli -> en:broccoli  ],64
+[ honey -> en:honey  ],62
